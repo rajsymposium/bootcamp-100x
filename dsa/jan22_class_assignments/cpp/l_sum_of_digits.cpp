@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main() {
     long long num;
     cin >> num;
     long long sum = 0;
